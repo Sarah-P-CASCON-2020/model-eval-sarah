@@ -1,0 +1,4 @@
+---
+applications:
+ - name: model-eval-sarah
+   memory: 128M
